@@ -54,3 +54,22 @@ h4 {
     text-align: center ;
     padding: 10px ;
 }
+
+header {
+    background-color: white ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    height: 90px ;
+}
+
+header ul {
+    display: flex ;
+    list-style-type: none ;
+    margin: 0 ;
+    padding: 0 ;
+}
+
+header ul li {
+    margin: 20px ;
+}
