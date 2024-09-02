@@ -11,7 +11,7 @@ body {
     justify-content: space-between ;
     /* align-items: flex-end ; */
     height: 375px ;
-    background-image: url("/images/dillPalate.jpg") ;
+    background-image: url("../images/dillPalate.jpg") ;
   
     background-position: center;
     background-repeat: no-repeat;
