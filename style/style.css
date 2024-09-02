@@ -73,3 +73,40 @@ header ul {
 header ul li {
     margin: 20px ;
 }
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    /* box-shadow: inset 0px 0px 8px rgb(106, 183, 235), 0 0 15px rgb(106, 183, 235); */
+}
+
+footer {
+    display: flex ;
+    justify-content: center ;
+    background-color: white ;
+    align-items: center ;
+}
+
+footer {
+    display: flex ;
+    flex-direction: column ;
+    justify-content: center ;
+    align-items: center ;
+}
+
+#icons {
+    margin-top: 15px ;
+    margin-bottom: 15px;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+    font-size: 3em;
+}
+
+i {
+    color: rgb(106, 183, 235) ;
+   
+}
