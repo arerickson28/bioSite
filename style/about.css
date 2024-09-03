@@ -1,3 +1,30 @@
 .about-pic {
     width: 650px;
+    margin: 15px ;
+    display: inline-block;
+}
+
+/* #freinds {
+    float: left ;
+}
+
+#ireland {
+    float: right;
+} */
+
+#friendshipDiv {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+#irelandDiv {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+p {
+    width: 650px;
+    margin: 50px;
 }
