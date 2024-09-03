@@ -2,6 +2,8 @@ body {
     margin: 0 ;
     padding: 0 ;
     background-color: #efeee7 ;
+    /* background-color: #ADD4D9; */
+    /* background-color: #C8D5DE; */
     font-family: "Georgia" ;
 }
 
@@ -38,25 +40,28 @@ body {
     margin-right: 75px ;
     padding: 8px ;
     background-color: white ;
-    color: rgb(106, 183, 235) ;
+    /* color: rgb(106, 183, 235) ; */
+    color: #E8C5AF;
 }
 
 h4 {
     margin: 0px ;
-    color:rgb(106, 183, 235) ;
+    /* color:rgb(106, 183, 235) ; */
+    color: #E8C5AF;
 }
 
 #bannerImage h1 {
     margin: 0px ;
     background-color: white ;
-    color: rgb(106, 183, 235) ;
+    /* color: rgb(106, 183, 235) ; */
+    color: #E8C5AF;
     display: inline ;
     text-align: center ;
     padding: 10px ;
 }
 
 header {
-    background-color: white ;
+    background-color: #F2E3B3 ;
     display: flex ;
     justify-content: center ;
     align-items: center ;
@@ -76,6 +81,7 @@ header ul li {
 
 nav ul li a {
     text-decoration: none;
+    color: #80A2BF;
 }
 
 nav ul li a:hover {
@@ -86,7 +92,9 @@ nav ul li a:hover {
 footer {
     display: flex ;
     justify-content: center ;
-    background-color: white ;
+    /* background-color: ; */
+    /* background-color: #ADD4D9; */
+    background-color: #F2E3B3 ;
     align-items: center ;
 }
 
@@ -104,9 +112,11 @@ footer {
     justify-content: center ;
     align-items: center ;
     font-size: 3em;
+    /* color: #F2E3B3; */
+    color: #ADD4D9;
 }
 
 i {
-    color: rgb(106, 183, 235) ;
-   
+    /* color: rgb(106, 183, 235) ; */
+    /* color: #E8C5AF; */
 }
