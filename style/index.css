@@ -11,11 +11,17 @@ main {
     margin-bottom: 25px ;
 }
 
-#bio-pic {
-    width: 250px ;
-    /* height: 250px; */
+figure {
     float: left ;
     margin: 15px ;
+}
+
+figure img {
+    width: 250px ;
+}
+
+figure figcaption {
+    font-style: italic;
 }
 
 

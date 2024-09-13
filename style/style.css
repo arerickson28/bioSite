@@ -120,3 +120,8 @@ footer {
     /* color: rgb(106, 183, 235) ; */
     /* color: #E8C5AF; */
 /* } */
+
+
+p {
+    line-height: 2;
+}

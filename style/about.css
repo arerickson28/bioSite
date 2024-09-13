@@ -1,16 +1,17 @@
 .about-pic {
     width: 650px;
-    margin: 15px ;
     display: inline-block;
 }
 
-/* #freinds {
-    float: left ;
+#versaille {
+    width: 450px;
 }
 
-#ireland {
-    float: right;
-} */
+#versailleDiv {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
 
 #friendshipDiv {
     display: flex;
@@ -18,11 +19,19 @@
     justify-content: space-around;
 }
 
+figure {
+    margin: 15px ;
+}
+figcaption {
+    font-style: italic;
+}
+
 #irelandDiv {
     display: flex;
     align-items: flex-start;
     justify-content: space-around;
 }
+
 
 p {
     width: 650px;
