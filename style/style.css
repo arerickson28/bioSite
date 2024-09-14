@@ -2,8 +2,6 @@ body {
     margin: 0 ;
     padding: 0 ;
     background-color: #efeee7 ;
-    /* background-color: #ADD4D9; */
-    /* background-color: #C8D5DE; */
     font-family: "Georgia" ;
 }
 
@@ -11,7 +9,6 @@ body {
     display: flex ;
     flex-direction: column ;
     justify-content: space-between ;
-    /* align-items: flex-end ; */
     height: 375px ;
     background-image: url("../images/dillPalate.jpg") ;
   
@@ -40,20 +37,17 @@ body {
     margin-right: 75px ;
     padding: 8px ;
     background-color: white ;
-    /* color: rgb(106, 183, 235) ; */
     color: #E8C5AF;
 }
 
 h4 {
     margin: 0px ;
-    /* color:rgb(106, 183, 235) ; */
     color: #E8C5AF;
 }
 
 #bannerImage h1 {
     margin: 0px ;
     background-color: white ;
-    /* color: rgb(106, 183, 235) ; */
     color: #E8C5AF;
     display: inline ;
     text-align: center ;
@@ -86,14 +80,11 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: underline;
-    /* box-shadow: inset 0px 0px 8px rgb(106, 183, 235), 0 0 15px rgb(106, 183, 235); */
 }
 
 footer {
     display: flex ;
     justify-content: center ;
-    /* background-color: ; */
-    /* background-color: #ADD4D9; */
     background-color: #F2E3B3 ;
     align-items: center ;
 }
@@ -112,16 +103,16 @@ footer {
     justify-content: center ;
     align-items: center ;
     font-size: 3em;
-    /* color: #F2E3B3; */
     color: #ADD4D9;
 }
 
-/* i { */
-    /* color: rgb(106, 183, 235) ; */
-    /* color: #E8C5AF; */
-/* } */
-
-
 p {
     line-height: 2;
+}
+
+figure {
+    margin: 15px ;
+}
+figcaption {
+    font-style: italic;
 }

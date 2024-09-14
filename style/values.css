@@ -10,28 +10,20 @@
 #versailleDiv {
     display: flex;
     align-items: flex-start;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 #friendshipDiv {
     display: flex;
     align-items: flex-start;
-    justify-content: space-around;
-}
-
-figure {
-    margin: 15px ;
-}
-figcaption {
-    font-style: italic;
+    justify-content: center;
 }
 
 #irelandDiv {
     display: flex;
     align-items: flex-start;
-    justify-content: space-around;
+    justify-content: center;
 }
-
 
 p {
     width: 650px;
