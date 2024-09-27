@@ -1,31 +1,12 @@
 .about-pic {
     width: 650px;
-    display: inline-block;
 }
 
 #versaille {
     width: 450px;
 }
 
-#versailleDiv {
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-}
-
-#friendshipDiv {
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-}
-
-#irelandDiv {
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-}
-
 p {
-    width: 650px;
+    max-width: 650px;
     margin: 50px;
 }

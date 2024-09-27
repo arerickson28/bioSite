@@ -36,8 +36,9 @@ body {
 #bannerImage h2 {
     margin-right: 75px ;
     padding: 8px ;
-    background-color: white ;
-    color: #E8C5AF;
+    background-color: #efeee7;
+    color:  #80A2BF;
+    border: solid #80A2BF 5px;
 }
 
 h4 {
@@ -45,10 +46,19 @@ h4 {
     color: #E8C5AF;
 }
 
+h3 {
+    color: #416CA6;
+}
+
+figcaption {
+    color: #80A2BF
+}
+
 #bannerImage h1 {
     margin: 0px ;
-    background-color: white ;
-    color: #E8C5AF;
+    background-color: #efeee7;
+    color:  #80A2BF;
+    border: solid #80A2BF 5px;
     display: inline ;
     text-align: center ;
     padding: 10px ;
@@ -115,4 +125,11 @@ figure {
 }
 figcaption {
     font-style: italic;
+}
+
+section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
 }
