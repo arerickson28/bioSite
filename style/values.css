@@ -10,3 +10,83 @@ p {
     max-width: 650px;
     margin: 50px;
 }
+
+/* Surface Duo */
+@media screen and (max-width: 540px) {
+    .about-pic {
+        width: 520px;
+    }
+
+    #versaille {
+        width: 520px;
+    }
+  }
+
+/* iphone 14 */
+@media screen and (max-width: 430px) {
+    .about-pic {
+        width: 420px;
+    }
+
+    #versaille {
+        width: 420px;
+    }
+  }
+
+/* iphone XR */
+@media screen and (max-width: 414px) {
+    .about-pic {
+        width: 400px;
+    }
+
+    #versaille {
+        width: 400px;
+    }
+  }
+
+/* iphone 12 */
+@media screen and (max-width: 390px) {
+    .about-pic {
+        width: 380px;
+    }
+
+    #versaille {
+        width: 380px;
+    }
+  }
+
+  /* iphone SE */
+  @media screen and (max-width: 375px) {
+    .about-pic {
+        width: 360px;
+    }
+
+    #versaille {
+        width: 360px;
+    }
+  }
+
+  /* Samsung Galaxy */
+  @media screen and (max-width: 360px) {
+    .about-pic {
+        width: 350px;
+    }
+
+    #versaille {
+        width: 350px;
+    }
+  }
+
+  /* Galaxy Z */
+  @media screen and (max-width: 344px) {
+    .about-pic {
+        width: 334px;
+    }
+
+    #versaille {
+        width: 334px;
+    }
+  }
+
+
+

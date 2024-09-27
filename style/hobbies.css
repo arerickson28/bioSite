@@ -6,3 +6,55 @@ p {
     max-width: 650px;
     margin: 50px;
 }
+
+/* Surface Duo */
+@media screen and (max-width: 540px) {
+    img {
+        width: 520px;
+    }
+  }
+
+/* iphone 14 */
+@media screen and (max-width: 430px) {
+    img {
+        width: 420px;
+    }
+  }
+
+  /* iphone XR */
+@media screen and (max-width: 414px) {
+    img {
+        width: 400px;
+    }
+  }
+
+  /* iphone 12 */
+  @media screen and (max-width: 390px) {
+    img {
+        width: 380px;
+    }
+  }
+
+   /* iphone SE */
+  @media screen and (max-width: 375px) {
+    img {
+        width: 360px;
+    }
+  }
+
+   /* Samsung Galaxy */
+  @media screen and (max-width: 360px) {
+    img {
+        width: 350px;
+    }
+  }
+
+    /* Galaxy Z */
+  @media screen and (max-width: 344px) {
+    img {
+        width: 334px;
+    }
+  }
+
+
+
